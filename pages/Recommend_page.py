@@ -6,7 +6,6 @@ import base64
 import requests
 from PIL import Image
 from io import BytesIO
-from IPython.core.display import HTML, display
 
 from model.bert import recommend
 
