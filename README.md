@@ -28,6 +28,6 @@ ___
 
 ___
 ## Реализация
-Сервис реализован с использованием сервиса [Hugginface](https://huggingface.co/spaces/alizhgir/find-my-book)
+Сервис реализован с использованием сервиса [Huggingface](https://huggingface.co/spaces/alizhgir/find-my-book)
 
 
