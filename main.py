@@ -42,6 +42,7 @@ st.info("""
  \n- ##### Python
  \n- ##### Языковая модель ruBERT-tiny
  \n- ##### Библиотеки: BeautifulSoup4, Sentence Transformers, faiss, transformers, genim и др.
- \n- ##### Cosine similarity для рекомендаций
+ \n- ##### Cosine Similarity, Euclidean Distance, Inner Product - как величины расстояния в процессе тестирования моделей
+ \n- ##### Euclidean Distance для формирования рекомендаций
  \n- ##### Hugging Face & Streamlit
 """)
