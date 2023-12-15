@@ -6,7 +6,7 @@
 
 * [Руслан Волощенко](https://github.com/ruslan-DS)
 * [Алиса Жгир](https://github.com/alizhgir)
-* [Арутюнян Тигран](https://github.com/SoloYolo7)
+* [Тигран Арутюнян](https://github.com/SoloYolo7)
 ___
 ## Описание проекта
 
